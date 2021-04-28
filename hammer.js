@@ -21,7 +21,7 @@ class Hammer{
         rectMode(CENTER);
         strokeWeight(4);
         stroke("white");
-        fill ("orange");
+        fill ("lightblue");
         rect(0, 0, this.width, this.height);
         pop ();
     }
